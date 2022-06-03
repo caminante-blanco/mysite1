@@ -1,10 +1,10 @@
-baseURL = ""
+baseURL = "www.walkercwhite.com"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
 # website title
-title = "Walker's Happy Place"
+title = "Walker's website"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
