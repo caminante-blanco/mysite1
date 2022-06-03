@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = ""
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -52,7 +52,7 @@ languageName = "English"
       enable = true
       # Gravatar Email for preferred avatar in home page
       # Gravatar 邮箱，用于优先在主页显示的头像
-      gravatarEmail = ""
+      gravatarEmail = "silence.dofine@gmail.com"
       # URL of avatar shown in home page
       # 主页显示头像的 URL
       avatarURL = "/images/amby.png"
